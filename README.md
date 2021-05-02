@@ -14,3 +14,6 @@ https://netflix-clone-c882d.web.app/
 
 ![nf-3](https://user-images.githubusercontent.com/61656212/113966786-63406380-984d-11eb-8f1f-429ff446a1e0.PNG)
 
+
+this is bhautiks readme
+hello vatsal
